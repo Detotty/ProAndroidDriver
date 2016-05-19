@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_activated_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_pressed_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_activated_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_pressed_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_disabled_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v16\\switch_thumb_disabled_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Driver\\taxinowV2AndroidProvider\\build\\intermediates\\exploded-aar\\Pro Android Driver\\androidswitchbackport\\unspecified\\res\\drawable-hdpi-v16\\switch_thumb_disabled_holo_dark.9.png"
+    }
+]

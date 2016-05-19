@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\library_pager\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\library_pager\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\library_pager\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\library_pager\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pro Android Driver.iml" filepath="$PROJECT_DIR$/Pro Android Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidswitchbackport/androidswitchbackport.iml" filepath="$PROJECT_DIR$/androidswitchbackport/androidswitchbackport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularImageView/circularImageView.iml" filepath="$PROJECT_DIR$/circularImageView/circularImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropLibrary/cropLibrary.iml" filepath="$PROJECT_DIR$/cropLibrary/cropLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pager/library_pager.iml" filepath="$PROJECT_DIR$/library_pager/library_pager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" filepath="$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxinowV2AndroidProvider/taxinowV2AndroidProvider.iml" filepath="$PROJECT_DIR$/taxinowV2AndroidProvider/taxinowV2AndroidProvider.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+include ':cropLibrary'
+include ':androidswitchbackport'
+include ':library_pager'
+include ':library_pinnlistivew'
+include ':taxinowV2AndroidProvider'
+include ':facebookSDK'
+include ':circularImageView'

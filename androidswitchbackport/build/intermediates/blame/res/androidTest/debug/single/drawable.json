@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_inner_holo_light.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_inner_holo_light.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_inner_holo_dark.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_inner_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_track_holo_light.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_track_holo_light.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_track_holo_dark.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_track_holo_dark.xml"
+    }
+]

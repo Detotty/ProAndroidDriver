@@ -1,0 +1,110 @@
+-injars 'F:\MyWork\Pro Android Driver\taxinowV2AndroidProvider\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'F:\MyWork\Pro Android Driver\taxinowV2AndroidProvider\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'J:\Android\SDK\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'F:\MyWork\Pro Android Driver\taxinowV2AndroidProvider\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.fixexperts.technician.MapActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.RegisterActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.ProfileActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.MenuDescActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.HistoryActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.HelpActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.SettingActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.MainActivity {
+    <init>();
+}
+
+-keep class com.soundcloud.android.crop.CropImageActivity {
+    <init>();
+}
+
+-keep class com.facebook.LoginActivity {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.GCMIntentService {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.locationupdate.LocationUpdateService {
+    <init>();
+}
+
+-keep class com.google.android.gcm.GCMBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.fixexperts.technician.MyReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

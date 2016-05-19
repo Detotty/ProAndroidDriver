@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\secondary_text_holo_dark.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\color\\secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\primary_text_holo_dark.xml",
+        "source": "F:\\MyWork\\Pro Android Driver\\androidswitchbackport\\build\\intermediates\\bundles\\debug\\res\\color\\primary_text_holo_dark.xml"
+    }
+]
